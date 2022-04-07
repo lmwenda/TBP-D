@@ -1,0 +1,85 @@
+{
+    "categories": [
+        "All",
+        "Deals",
+        "Pizza",
+        "Classic Sides",
+        "Chicken Sides",
+        "Chicken Meals",
+        "Dips",
+        "Ice Creams & Sundaes",
+        "Cakes",
+        "Waffles",
+        "Waffle Sticks",
+        "Crepes",
+        "Drinks",
+        "Milkshakes"
+    ],
+
+    "Deals": {
+        "1": {
+            "name": "Triple Treat 1",
+            "description": "Any 3 Waffles or Crepes for £13.00",
+            "price": "£13.00"
+        },
+        "2": {
+            "name": "Triple Treat 2",
+            "description": "Any 3 Milkshakes for £9.00",
+            "price": "£9.00"
+        },
+        "3": {
+            "name": "Triple Treat 3",
+            "description": "Any 3 Cakes for £10.00",
+            "price": "£10.00"
+        },
+        "4": {
+            "name": "Double Treat",
+            "description": "2 Waffles or Crepes + 2 Milkshakes for £15.00",
+            "price": "£15.00"
+        }
+    },
+    "Pizza": {
+        "1": {
+            "name": "Original Margherita",
+            "description": "",
+            "price": ""
+        },
+        "2": {
+            "name": "Vegetable Supreme",
+            "description": "",
+            "price": ""
+        },
+        "3": {
+            "name": "Double Deal - 2 XXL Pizza's",
+            "description": "",
+            "price": ""
+        },
+        "4": {
+            "name": "Hungry Man",
+            "description": "",
+            "price": ""
+        },
+        "5": {
+            "name": "The CheeseBurger",
+            "description": "",
+            "price": ""
+        },
+
+        "6": {
+            "name": "The Peri Peri",
+            "description": "",
+            "price": ""
+        }
+    },
+    "Classic Sides": [],
+    "Chicken Sides": [],
+    "Chicken Meals": [],
+    "Dips": [],
+    "Ice Creams & Sundaes": [],
+    "Cakes": [],
+    "Waffles": [],
+    "Waffle Sticks": [],
+    "Crepes": [],
+    "Drinks": [],
+    "Milkshakes": []
+}

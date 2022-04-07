@@ -1,0 +1,1 @@
+Responsive Navbar Hamburger lines will get in the way if your device height is less than '886'

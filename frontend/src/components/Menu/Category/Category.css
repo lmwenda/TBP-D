@@ -1,0 +1,18 @@
+.category{
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid rgb(167, 68, 11);
+    color: rgb(167, 68, 11);
+    width: 10vw;
+    border-radius: 4px;
+    margin: 5px;
+    font-weight: 500;
+    transition: all 0.5s ease;
+}
+
+.category:hover{
+    transition: all 0.5s ease;
+    color: #fff;
+    font-weight: 500;
+    background:rgb(167, 68, 11);
+}

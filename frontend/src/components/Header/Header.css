@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    align-items: center;
+    background:rgb(167, 68, 11);
+    height: 7vh;
+}
+
+nav h1{
+    justify-content: flex-start;
+    padding-left: 25vw;
+    color: #fff;
+}
+
+.links{
+    justify-content: flex-end;
+    padding-left: 30vw;
+}
+
+.links #nav-links{
+    transition: all 0.4s ease-in;
+    margin-left: 1vw;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(167, 68, 11);
+    border-radius: 4px;
+    background: rgb(167, 68, 11);
+}
+
+.links #first{
+    transition: all 0.4s ease-in;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(167, 68, 11);
+    border-radius: 4px;
+    background: rgb(167, 68, 11);
+}

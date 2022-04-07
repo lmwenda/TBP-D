@@ -1,0 +1,96 @@
+.loginPage___container{
+    display: flex;
+}
+
+.loginPage___container___image{
+    margin-left: 5vw;
+    margin-top: 4vh;
+}
+
+.loginPage___container___form form input{
+    padding: 10px;
+    width: 40vw;
+
+    margin: 10px;
+}
+
+.loginPage___container___form form textarea{
+    padding: 15px;
+    width: 40vw;
+
+    margin: 10px;
+}
+
+.loginPage___container___form form button{
+    width: 10vw;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+    background: rgb(167, 68, 11);
+    border: 1px solid rgb(167, 68, 11);
+    margin-left: 0.5vw;
+}
+
+.loginPage___container___form form{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.loginPage___container___form h1{
+    padding-left: 5.3vw;
+    padding-top: 3.5vh;
+}
+
+.loginPage___container___form #redirection{
+    padding-left: .5vw;
+    text-decoration: underline;
+    text-decoration-color: rgb(167, 68, 11);
+    color: rgb(167, 68, 11);
+}
+
+#img{
+    width: 45vw;
+    border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+
+    .loginPage___container___form h1{
+        font-size: 40px;
+        margin: 3px;
+    }
+
+    .loginPage___container___form form #redirection{
+        margin: 3px;
+    }
+    
+    .loginPage___container___form form{
+        width: 70vw;
+    }
+
+    .loginPage___container___form form input{
+        padding: 10px;
+        width: 70vw;
+    
+        margin: 10px;
+    }
+    
+    .loginPage___container___form form textarea{
+        padding: 15px;
+        width: 70vw;
+    
+        margin: 10px;
+    }
+    
+    .loginPage___container___form form button{
+        width: 40vw;
+        padding: 10px;
+        color: #fff;
+        border-radius: 4px;
+        background: rgb(167, 68, 11);
+        margin: 10px;
+        border: 1px solid rgb(167, 68, 11);
+    }
+}
